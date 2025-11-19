@@ -1,94 +1,185 @@
+
 <div align="center">
 
-# 👋 Hello, I'm Danny CYH!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Danny+CYH;Full-Stack+Developer;SaaS+Architect;Problem+Solver" alt="Typing SVG" />
 
-### 🚀 Full-Stack Developer | Laravel & React Specialist | SaaS Builder
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chengyangho14@gmail.com)
+<p align="center">
+  <a href="https://danny-cyh.github.io/Personal-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/cheng-yang-ho-6a222b289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chengyangho14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
-## 💫 About Me
+## 🚀 About Me
 
-I'm a passionate full-stack developer specializing in building modern SaaS platforms and e-commerce solutions. With expertise in **Laravel, React, and cloud technologies**, I create scalable applications that solve real-world problems.
+- 🎓 Software Engineering student passionate about modern web and mobile development  
+- 💡 Interested in **SaaS**, **AI-powered applications**, and **full-stack systems**  
+- 🛠 Currently working on: *E-Preloved Exchange Store (SaaS Model)*  
+- 🌱 Learning: *How to write clean code**  
+- ⚡ Always exploring new tools to improve performance & developer workflow 
 
-- 🔭 Currently working on **Relove Market** - Degree Final Year Project
-- 💡 Passionate about **sustainable technology** and **community-driven platforms**
-- 🎯 Focused on **clean code, user experience, and scalable solutions**
+## 🛠️ Technical Arsenal
 
-## 🛠️ Tech Stack
+### 💻 Core Technologies
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
 
-### Backend Development
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## 💼 Professional Journey
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🎯 Current Focus
+**Building Scalable SaaS Platforms**
+- Developing full-stack applications with modern tech stacks
+- Implementing real-time features and microservices architecture
+- Focusing on code quality, testing, and maintainability
 
-### Tools & Services
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 📈 Experience
+```
+2023 - 2023  → Internship (Backend Engineer)
+             Working on Clinic Panel System on Syarikat Air Darul Aman (SADA) using Laravel
 
-## 🚀 Featured Projects
+2024 - Now   → Freelancer (Frontend Developer)
+              Developing and maintaining the frontend page. 
+```
+
+## 🚀 Featured Project
+
+<div align="center">
 
 ### 🔥 Relove Market
-A comprehensive SaaS platform for Malaysian preloved goods exchange featuring AI-powered visual search, real-time chat, and secure payment processing.
 
-**Tech:** Laravel, React, Stripe, Pusher, Python, Supabase
+**Modern Preloved Goods Exchange Platform**
 
-[![View Project](https://img.shields.io/badge/View_Project-Live_Demo-green?style=for-the-badge)](https://github.com/Danny-CYH/Relove-Market)
-
-### 💼 Other Notable Projects
-- **Hotel Management System**
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danny-CYH&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-CYH&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Danny-CYH&theme=radical&hide_border=true)
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danny-CYH/Relove-Market)
 
 </div>
 
-## 🌟 What I Bring to the Table
+```yaml
+project:
+  name: "Relove Market"
+  type: "SaaS Platform"
+  status: "Active Development"
+  description: "Malaysian-focused preloved goods marketplace"
 
-- **Full-Stack Expertise**: End-to-end development from database design to UI/UX
-- **SaaS Architecture**: Building scalable multi-tenant applications
-- **Modern Practices**: Clean code, testing, and DevOps principles
-- **Problem Solving**: Creative solutions for complex technical challenges
-- **Team Collaboration**: Effective communication and project management
+architecture:
+  frontend:
+    - React 18 with Vite
+    - TailwindCSS for styling
+    - PWA for mobile experience
+    - Real-time updates with Pusher
+  backend:
+    - Laravel 11 with PHP 8.2
+    - MySQL with optimized queries
+    - RESTful API design
+    - Python services for AI features
+  infrastructure:
+    - Stripe payment processing
+    - Supabase for additional services
 
-## 📫 Let's Connect!
+key_features:
+  - 🤖 AI-powered visual search
+  - 💬 Real-time messaging system
+  - 💳 Secure payment processing
+  - 📊 Real-time analytics dashboard
+  - 🛡️ Comprehensive admin system
+  - 📱 Progressive Web App
+```
 
-I'm always open to discussing new opportunities, collaborations, or just chatting about technology and innovation.
+## 📊 Development Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:chengyangho14@gmail.com)
+<!-- GitHub Stats -->
+<a href="https://github.com/Danny-CYH">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danny-CYH&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny-CYH&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" />
+</a>
+
+<!-- Streak Stats -->
+<a href="https://github.com/Danny-CYH">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Danny-CYH&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</a>
+
+</div>
+
+## 📫 Let's Build Together
+
+<div align="center">
+
+I'm always open to discussing new opportunities, collaborations, or innovative projects. Let's create something amazing!
+
+<p>
+  <a href="mailto:chengyangho14@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://www.linkedin.com/in/cheng-yang-ho-6a222b289/">
+    <img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://danny-cyh.github.io/Personal-Portfolio/">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-FF6B6B?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000" />
+  </a>
+</p>
 
 </div>
 
 ---
 
+## 💬 Quote of the day
+
 <div align="center">
 
-### ⚡ "Building the future, one line of code at a time"
+"An error without a message is like your girlfriend being mad but not telling you why."
 
-![Visitors](https://komarev.com/ghpvc/?username=Danny-CYH&color=blue&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=Danny-CYH&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
