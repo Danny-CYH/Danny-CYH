@@ -64,8 +64,8 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented software engi
 
 My resume and certifications available for viewing directly on GitHub:
 
-- **[📄 View My Resume (PDF)](./Certificate_deXsym.pdf)**  
-- **[📜 View My Certificates](./certificates/)**  
+- **[📄 View My Resume (PDF)](./CHENG_YANG_HO.pdf)**  
+- **[📜 View My Certificates](./Certificates/)**  
 ---
 
 ## 📫 Let's Connect
