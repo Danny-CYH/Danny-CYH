@@ -6,34 +6,38 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented software engi
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Final-year IT student** at University Utara Malaysia (Current CGPA: 3.72)
+- 🎓 **Final-year IT student** at University Utara Malaysia
 - 💼 **Internship-ready**: Seeking full-stack web developer roles starting April 2026
-- 🧠 **Currently learning**: Advanced React patterns, system design, and AI integration
-- 🎯 **Career goal**: To become a proficient full-stack engineer with expertise in scalable SaaS platforms
+- 🧠 **Currently learning**: Vue JS, React, and Web Development
+- 🎯 **Career goal**: To become a proficient full-stack engineer with expertise in AI integration
 - 🌱 **I enjoy**: Clean code, performance optimization, UI/UX design, and collaborative problem-solving
 
 ---
 
 ## 🛠️ Technical Skills
 
-| Category       | Technologies & Tools                                                                 |
-|----------------|--------------------------------------------------------------------------------------|
-| **Backend**    | Laravel, PHP, Python, Java, CRUD Operations                                          |
-| **Frontend**   | React, JavaScript, TailwindCSS, Bootstrap, jQuery, Responsive Design                 |
-| **Mobile**     | Android Studio (Java)                                                                |
-| **Databases**  | MySQL, Supabase (PostgreSQL)                                                         |
-| **Tools**      | Git, GitHub, Figma, Postman, Stripe, Pusher, Vite, SweetAlert2                       |
-| **Soft Skills**| Team Collaboration, Problem Solving, Adaptability, Passion for Learning              |
+### **Languages**
+![PHP](https://skillicons.dev/icons?i=php)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
----
+### **Frameworks & Libraries**
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![jQuery](https://skillicons.dev/icons?i=jquery)
 
-## 📜 Certifications & Awards
-
-| Certification/Award | Issuing Organization | Date |
-|---------------------|----------------------|------|
-| **Presenter Certificate** – International Digital Expert Symposium (deXsym) 2025 | Cooperative Digital Experts (CodeX) Kedah Berhad | Dec 2025 |
-| **Web Hosting Workshop Participation** – From Local to Web Hosting | Cooperative Digital Experts (CodeX) Kedah Berhad | Jun 2025 |
-| **Dean’s List Award** | University Utara Malaysia | Multiple Semesters |
+### **Tools & Platforms**
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+![Vite](https://skillicons.dev/icons?i=vite)
+![Supabase](https://skillicons.dev/icons?i=supabase)
 
 ---
 
@@ -64,8 +68,9 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented software engi
 
 My resume and certifications available for viewing directly on GitHub:
 
-- **[📄 View My Resume (PDF)](./CHENG_YANG_HO.pdf)**  
+- **[📄 View My Resume](./CHENG_YANG_HO.pdf)**  
 - **[📜 View My Certificates](./Certificate)**  
+
 ---
 
 ## 📫 Let's Connect
