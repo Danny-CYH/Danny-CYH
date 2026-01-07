@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented software engi
 
 My resume and certifications available for viewing directly on GitHub:
 
-- **[📄 View My Resume (PDF)](https://github.com/Danny-CYH/raw/main/Certificate%20Of%20deXsym.pdf)**  
+- **[📄 View My Resume (PDF)](./Danny-CYH/Certificate_deXeym.pdf)**  
 - **[📜 View My Certificates](./certificates/)**  
 ---
 
