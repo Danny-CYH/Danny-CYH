@@ -31,12 +31,9 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented software engi
 ![jQuery](https://skillicons.dev/icons?i=jquery)
 
 ### **Tools & Platforms**
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
-![Vite](https://skillicons.dev/icons?i=vite)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
 
 ---
@@ -51,17 +48,6 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented software engi
 - AI-powered visual search and recommendations  
 - Real-time chat, notifications, and order tracking  
 - Secure payments, commission system, and PWA support  
-
-### 🔹 **Hotel Management System**
-*A responsive web app for hotel room bookings and management*  
-**Tech**: Laravel, Bootstrap, MySQL  
-**Features**: Room search, availability calendar, booking system, payment integration  
-
-### 🔹 **Future Attendance Tracker (Mobile App)**
-*Android app for tracking student and staff attendance*  
-**Tech**: Android Studio, Java, SQLite  
-**Features**: Daily stats, barcode scanning, attendance analytics with charts  
-
 ---
 
 ## 📁 Access My Resume & Certifications
