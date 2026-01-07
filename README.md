@@ -1,97 +1,73 @@
-# 🌟 Hi, I'm Danny — Software Engineering Student & Developer
+# 👋 Hi, I'm Danny — Software Engineering Student & Full-Stack Developer
 
-Welcome to my GitHub!
-I'm passionate about building meaningful software, exploring modern web technologies, and solving real problems through clean, efficient code.
-
-Currently, I’m focused on **full-stack development**, **AI integration**, and **scalable SaaS architecture**.
-
-## 🚀 About Me
-
-* 🎓 **IT student (Software Engineering Major)**
-* 💻 Interests: Laravel, React, PHP, JavaScript, Tailwind CSS
-* 🧠 Currently Learning: **React + Laravel framework**
-* 🎯 Goal: Become a full-stack software engineer with strong system design & AI skills
-* 🌱 I enjoy UI/UX improvements, backend optimization, and creating practical digital products
+Welcome to my GitHub profile! I'm a passionate and detail-oriented software engineering student with hands-on experience in building modern web applications, from backend APIs to responsive frontends. I specialize in **Laravel**, **React**, and **TailwindCSS**, and I'm always exploring new technologies to solve real-world problems.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-### **Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,js,java,python,mysql" />
-</p>
-
-### **Frameworks & Libraries**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,bootstrap" />
-</p>
-
-### **Tools & Platforms**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,figma,androidstudio,postman,github" />
-</p>
+- 🎓 **Final-year IT student** at University Utara Malaysia (Current CGPA: 3.72)
+- 💼 **Internship-ready**: Seeking full-stack web developer roles starting April 2026
+- 🧠 **Currently learning**: Advanced React patterns, system design, and AI integration
+- 🎯 **Career goal**: To become a proficient full-stack engineer with expertise in scalable SaaS platforms
+- 🌱 **I enjoy**: Clean code, performance optimization, UI/UX design, and collaborative problem-solving
 
 ---
 
-## 💼 Highlight Projects
+## 🛠️ Technical Skills
 
-### 🔹 **E-Preloved Exchange Store (SaaS Model) — *Relove Market***
-
----<img width="1901" height="908" alt="home_page" src="https://github.com/user-attachments/assets/2e62b541-3ea9-45cc-94f4-bb2a3ec7a1ff" />
-
-**Key Features:**
-
-Buyers:
-* ✔ Multi-tenant SaaS architecture
-* ✔ Everyone can register as sellers
-* ✔ Filter feature for finding item
-* ✔ AI-powered item recommendations
-* ✔ Image-based item search
-* ✔ Buy and Sale item
-* ✔ Review and rating on item
-* ✔ Real Time Communication
-* ✔ Stripe Payment
-* ✔ Order Tracking Feature
-* ✔ Buyer Order Confirmation
-* ✔ View Order History
-* ✔ Profile Update
-
-Sellers:
-* ✔ Clean seller dashboard
-* ✔ Bar chart for visualize order and payment received
-* ✔ Product Management
-* ✔ Line chart for showing earning tracking
-* ✔ Order receipt printing
-* ✔ Earning report generator
-* ✔ Featuring product
-* ✔ Real Time Communication
-* ✔ Profile Update
-* ✔ Filter function for searching date
-
-Admin:
-* ✔ Clean admin dashboard
-* ✔ Bar chart for visualize earning received
-* ✔ Transaction approve for releasing the money to seller
-* ✔ Real Time Seller Approval System for approve or reject the application
-* ✔ User management for managing access on user
-* ✔ Product Moderation for monitoring the item on the platform
-
-> *My Degree Final Year Project — The End*
+| Category       | Technologies & Tools                                                                 |
+|----------------|--------------------------------------------------------------------------------------|
+| **Backend**    | Laravel, PHP, Python, Java, CRUD Operations                                          |
+| **Frontend**   | React, JavaScript, TailwindCSS, Bootstrap, jQuery, Responsive Design                 |
+| **Mobile**     | Android Studio (Java)                                                                |
+| **Databases**  | MySQL, Supabase (PostgreSQL)                                                         |
+| **Tools**      | Git, GitHub, Figma, Postman, Stripe, Pusher, Vite, SweetAlert2                       |
+| **Soft Skills**| Team Collaboration, Problem Solving, Adaptability, Passion for Learning              |
 
 ---
 
-## 🌐 Connect With Me
+## 📜 Certifications & Awards
 
-📧 **Email:** [chengyangho14@gmail.com](mailto:chengyangho14@gmail.com)
+| Certification/Award | Issuing Organization | Date |
+|---------------------|----------------------|------|
+| **Presenter Certificate** – International Digital Expert Symposium (deXsym) 2025 | Cooperative Digital Experts (CodeX) Kedah Berhad | Dec 2025 |
+| **Web Hosting Workshop Participation** – From Local to Web Hosting | Cooperative Digital Experts (CodeX) Kedah Berhad | Jun 2025 |
+| **Dean’s List Award** | University Utara Malaysia | Multiple Semesters |
 
 ---
 
-## ✨ Fun Fact
+## 🚀 Highlighted Projects
 
-I enjoy learning new tech, improving system performance, and surviving long debugging nights with programming memes. 😄
+### 🔹 **Relove Market – SaaS Preloved Exchange Platform**
+*A full-stack marketplace for buying/selling preloved goods in Malaysia*  
+**Tech**: Laravel, React, Supabase, Stripe, Pusher, Python (Flask, Clip Model)  
+**Features**:  
+- Multi-role system (Buyer, Seller, Admin) with dashboards  
+- AI-powered visual search and recommendations  
+- Real-time chat, notifications, and order tracking  
+- Secure payments, commission system, and PWA support  
 
+### 🔹 **Hotel Management System**
+*A responsive web app for hotel room bookings and management*  
+**Tech**: Laravel, Bootstrap, MySQL  
+**Features**: Room search, availability calendar, booking system, payment integration  
+
+### 🔹 **Future Attendance Tracker (Mobile App)**
+*Android app for tracking student and staff attendance*  
+**Tech**: Android Studio, Java, SQLite  
+**Features**: Daily stats, barcode scanning, attendance analytics with charts  
+
+---
+
+## 📁 Access My Resume & Certifications
+
+My resume and certifications available for viewing directly on GitHub:
+
+- **[📄 View My Resume (PDF)](./resume/CHENG_YANG_HO_Resume.pdf)**  
+- **[📜 View My Certificates](./certificates/)**  
+---
+
+## 📫 Let's Connect
+- **Email**: [chengyangho14@gmail.com](mailto:chengyangho14@gmail.com)  
 ---
