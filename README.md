@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Danny — Software Engineering Student & Full-Stack Developer
+# 👋 Hi, I'm Danny — Software Engineer & Full-Stack Web Developer
 
-Welcome to my GitHub profile! I'm a passionate and detail-oriented software engineering student with hands-on experience in building modern web applications, from backend APIs to responsive frontends. I specialize in **Laravel**, **React**, and **TailwindCSS**, and I'm always exploring new technologies to solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate and detail-oriented software engineer with hands-on experience in building modern web applications, from backend APIs to responsive frontends. I specialize in **Laravel**, **React**, and **TailwindCSS**, and I'm always exploring new technologies to solve real-world problems.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Final-year IT student** at University Utara Malaysia
-- 💼 **Internship-ready**: Seeking full-stack web developer roles starting April 2026
-- 🧠 **Currently learning**: Vue JS, React, and Web Development
+- 🎓 **Diploma In Information Technology** at Politeknik Sultan Abdul Halim Mu'adzam Shah
+- 🎓 **Bachelor of Science with Honours (Information Technology)** at University Utara Malaysia
+- 🧠 **Currently learning**: Vue JS, React, Laravel, and Web Development
 - 🎯 **Career goal**: To become a proficient full-stack engineer with expertise in AI integration
 - 🌱 **I enjoy**: Clean code, performance optimization, UI/UX design, and collaborative problem-solving
 
